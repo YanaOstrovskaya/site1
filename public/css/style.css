@@ -1,0 +1,14 @@
+.gray{background: #F7F7F7;
+text-align: center;
+position: relative;
+	margin-right: 2%;
+	padding: 0px 0px 10% 0px;}
+.gray p{background: tomato;
+	position: absolute;
+	right: 1px;}
+.sale p{text-align: center;}
+.blue{color: blue;}
+.big{font-weight: bolder;
+	font-size:large;}
+.mini{text-decoration: line-through;
+	font-size:x-small;}
